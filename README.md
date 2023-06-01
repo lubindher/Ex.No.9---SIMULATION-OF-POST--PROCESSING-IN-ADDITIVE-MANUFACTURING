@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![241360150-7e4c7c83-7fa0-48d3-be3f-b1bf485aad77](https://github.com/lubindher/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559904/d28a138e-95e3-403f-a135-60c1fd6a6ec1)
+![241360158-65fbe4af-5de9-46a0-b48c-e0b389f19936](https://github.com/lubindher/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559904/5f25cf74-96e8-4aac-a813-d872da3354f8)
+![241360163-7cbe2919-89a3-4cec-b6f8-359c0e75f1fe](https://github.com/lubindher/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559904/5f694f43-dd95-42fb-a6e7-73504e5cfd00)
 
-### Name:
-### Register Number:
+### Name: LUBINDHER S
+### Register Number: 212222240056
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
